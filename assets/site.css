@@ -113,3 +113,4 @@ picture.foto{display:block}picture.foto img{display:block;width:100%;height:auto
 .lema-frase{font:400 clamp(42px,8vw,96px)/1.15 "Great Vibes",cursive;color:#fff;margin:0 0 .35em;text-wrap:balance}
 .lema-assina{font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:#aebbd0;margin:0}
 .lema-assina::before{content:"";display:block;width:56px;height:1px;background:#4a6488;margin:0 auto 16px}
+.brand{flex-wrap:wrap;row-gap:4px}.brand .deus{flex-basis:100%;font:italic 500 13px/1 "Source Serif 4",Georgia,serif;letter-spacing:.04em;color:#e6ebf0}
